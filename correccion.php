@@ -1,1 +1,1 @@
-// C4: correción de fallo valor negativo en codigo
+//Corrijo el error del grafico
